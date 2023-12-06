@@ -15,6 +15,8 @@
 
 <!-- PROJECT LOGO -->
 
+--------------------
+
 ## 基本知识点
 计算机网络是由多台计算机组成的系统，这些计算机通过通信媒体（如电缆、电话线、无线信号等）和网络设备（如路由器、交换机、调制解调器等）互相连接和通信，实现数据和资源的共享。
 
@@ -61,69 +63,46 @@
 
 ## 计算机理论知识
 
-### 参考文档
-
-[目录       ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rgziz584rvlgkfkn?singleDoc# 《计算机网络》)
-
-[概述       ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/hngff4ecr4hg96gs?singleDoc# 《01-概述》)
-
-[物理层     ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/yihte6g7zf4rr11a?singleDoc# 《02-物理层》)
-
-[数据链路层 ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ggmphycqdeehgv0h?singleDoc# 《03-数据链路层》)
-
-[网络层     ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ursmgfnafp0nhwqv?singleDoc# 《04-网络层》)
-
-[传输层     ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/hrtzu51vbezyocg8?singleDoc# 《05-传输层》)
-
-[应用层     ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ug3dxqest0wq44mx?singleDoc# 《06-应用层》)
-
-[面试常客   ](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rpzy09hi8w6th5c9?singleDoc# 《07-面试常客》)
++ [目录](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rgziz584rvlgkfkn?singleDoc#%20《计算机网络》)
++ [概述](https://www.yuque.com/hanwenhao-bs03y/ygt7az/hngff4ecr4hg96gs?singleDoc#%20《01-概述》)
++ [物理层](https://www.yuque.com/hanwenhao-bs03y/ygt7az/yihte6g7zf4rr11a?singleDoc#%20《02-物理层》)
++ [数据链路层](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ggmphycqdeehgv0h?singleDoc#%20《03-数据链路层》)
++ [网络层](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ursmgfnafp0nhwqv?singleDoc#%20《04-网络层》)
++ [传输层](https://www.yuque.com/hanwenhao-bs03y/ygt7az/hrtzu51vbezyocg8?singleDoc#%20《05-传输层》)
++ [应用层](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ug3dxqest0wq44mx?singleDoc#%20《06-应用层》)
++ [面试常客](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rpzy09hi8w6th5c9?singleDoc#%20《07-面试常客》)
 
 
 ## 网络协议
 
-### 参考文档
-
-[协议汇总](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ppg9yiddr02875eo?singleDoc# 《网络协议汇总》)
-
-[HTTP协议](https://www.yuque.com/hanwenhao-bs03y/ygt7az/vyg2vx1dhrlggn8y?singleDoc# 《HTTP 协议》)
++ [协议汇总](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ppg9yiddr02875eo?singleDoc#%20《网络协议汇总》)
++ [HTTP协议](https://www.yuque.com/hanwenhao-bs03y/ygt7az/vyg2vx1dhrlggn8y?singleDoc#%20《HTTP 协议》)
 
 
 ## 异步IO模型
 
-### 参考文档
-
 #### Netty
 
-[第 1 章 Netty 介绍和应用场景             ](NIO/netty/netty_chapter/_content/chapter01.md)
-
-[第 2 章 Java BIO 编程                    ](NIO/netty/netty_chapter/_content/chapter02.md)
-
-[第 3 章 Java NIO 编程                    ](NIO/netty/netty_chapter/_content/chapter03.md)
-
-[第 4 章 Netty 概述                       ](NIO/netty/netty_chapter/_content/chapter04.md)
-
-[第 5 章 Netty 高性能架构设计             ](NIO/netty/netty_chapter/_content/chapter05.md)
-
-[第 6 章 Netty 核心模块组件               ](NIO/netty/netty_chapter/_content/chapter06.md)
-
-[第 7 章 Google Protobuf                  ](NIO/netty/netty_chapter/_content/chapter07.md)
-
-[第 8 章 Netty 编解码器和 Handler 调用机制](NIO/netty/netty_chapter/_content/chapter08.md)
-
-[第 9 章 TCP 粘包和拆包及解决方案         ](NIO/netty/netty_chapter/_content/chapter09.md)
-
-[第 10 章 Netty 核心源码剖析              ](NIO/netty/netty_chapter/_content/chapter10.md)
-
-[第 11 章 用 Netty 自己实现 Dubbo RPC     ](NIO/netty/netty_chapter/_content/chapter11.md)
-
-[Netty 源码案例                           ](https://github.com/dongzl/netty-handbook)
++ [第 1 章 Netty 介绍和应用场景](NIO/netty/netty_chapter/_content/chapter01.md)
++ [第 2 章 Java BIO 编程](NIO/netty/netty_chapter/_content/chapter02.md)
++ [第 3 章 Java NIO 编程](NIO/netty/netty_chapter/_content/chapter03.md)
++ [第 4 章 Netty 概述](NIO/netty/netty_chapter/_content/chapter04.md)
++ [第 5 章 Netty 高性能架构设计](NIO/netty/netty_chapter/_content/chapter05.md)
++ [第 6 章 Netty 核心模块组件](NIO/netty/netty_chapter/_content/chapter06.md)
++ [第 7 章 Google Protobuf](NIO/netty/netty_chapter/_content/chapter07.md)
++ [第 8 章 Netty 编解码器和 Handler 调用机制](NIO/netty/netty_chapter/_content/chapter08.md)
++ [第 9 章 TCP 粘包和拆包及解决方案](NIO/netty/netty_chapter/_content/chapter09.md)
++ [第 10 章 Netty 核心源码剖析](NIO/netty/netty_chapter/_content/chapter10.md)
++ [第 11 章 用 Netty 自己实现 Dubbo RPC](NIO/netty/netty_chapter/_content/chapter11.md)
++ [Netty 源码案例](https://github.com/dongzl/netty-handbook)
 
 #### 其他方式
-[WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket)
 
-[Swoole](https://wiki.swoole.com/#/)
++ [WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket)
++ [Swoole](https://wiki.swoole.com/#/)
 
+
+-------------------
 
 ## 贡献者
 
@@ -144,17 +123,17 @@
 
 该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
-## 作者
-
-[小昊子](https://github.com/worst001)
-
-制做不易，如果有帮到你就请作者喝杯咖啡吧!
-
-![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg)
-
-作者无聊时做的测试游戏，完全免费哦！
-
-![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg)
+<!-- ## 作者 -->
+<!--  -->
+<!-- [小昊子](https://github.com/worst001) -->
+<!--  -->
+<!-- 制做不易，如果有帮到你就请作者喝杯咖啡吧! -->
+<!--  -->
+<!-- ![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg) -->
+<!--  -->
+<!-- 作者无聊时做的测试游戏，完全免费哦！ -->
+<!--  -->
+<!-- ![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg) -->
 
 
 ## 参考资料
