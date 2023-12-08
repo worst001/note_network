@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 计算机网络
 
 ## 基本知识点
@@ -157,3 +168,17 @@ NIO 则采用了基于事件驱动的模型，通过少量的线程来处理大�
     + NIO 提供了非阻塞的 I/O 操作，这意味着在没有数据可用时，线程不会被阻塞，而是继续执行其他任务。这使得单个线程可以同时处理多个连接和请求。
 
 NIO 的优势在于它能够提供更高的并发性和吞吐量，适用于处理大量的并发连接和高负载的网络应用程序。然而，相对于传统的阻塞 I/O，NIO 编程模型更为复杂，需要更深入的理解和使用。
+
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_network.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_network/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_network.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_network/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_network.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_network/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_network.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_network.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_network.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_network/blob/main/LICENSE.txt
