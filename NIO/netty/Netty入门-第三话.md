@@ -1008,7 +1008,7 @@ public class MyLongToByteEncoder extends MessageToByteEncoder<Long> {
 
 > 下面是Netty官方源码给的图，我个人觉的不是太好理解，上面的图好理解一些
 
-![](image/chapter08_05.png)
+![](netty_chapter/_media/chapter08/chapter08_05.png)
 
 ## ByteToMessageDecoder的小细节
 
