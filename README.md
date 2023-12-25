@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +10,37 @@
 
 <!-- PROJECT LOGO -->
 
-# 计算机网络
+<!-- 项目LOGO -->
+<br />
+<div align="center">
+  <a href="http://mkdocs.grft.top">
+    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
+  </a>
+
+  <h3 align="center">计算机网络</h3>
+
+  <p align="center">
+    <br />
+    <a href="http://mkdocs.grft.top/计算机网络/"><strong>探索文档 »</strong></a>
+    <br />
+  </p>
+</div>
+
+<!-- 目录 -->
+<details>
+  <summary>目录</summary>
+  <ol>
+    <li><a href="#关于项目">关于项目</a></li>
+    <li><a href="#什么是计算机网络">什么是计算机网络</a></li>
+    <li><a href="#技术目录">技术目录</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#鸣谢">鸣谢</a></li>
+  </ol>
+</details>
+
+## 关于项目
 
 整理了计算机网络基础理论知识、和每一层对应的协议，着重画出Http脑图。然后通过Netty实现异步IO加深对网络IO的理解。
 
@@ -21,14 +52,12 @@
 
 - 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 基本知识点
+## 什么是计算机网络
 计算机网络是由多台计算机组成的系统，这些计算机通过通信媒体（如电缆、电话线、无线信号等）和网络设备（如路由器、交换机、调制解调器等）互相连接和通信，实现数据和资源的共享。
 
 计算机网络可以根据其覆盖范围、设计结构、传输技术等方面进行分类。
-
-## 常见的分类
 
 ### 覆盖范围
 + 局域网（LAN，Local Area Network）：通常覆盖一个较小区域，如家庭、学校或办公室大楼。
@@ -61,13 +90,13 @@
 网络安全是计算机网络设计和运营中的重要考虑因素，涉及到保护网络和网络访问设备免受未授权访问、数据泄露和各种攻击（如病毒、木马、钓鱼攻击等）。
 
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 目录
+## 技术目录
 
 [目录](index.md)
 
-## 计算机理论知识
+### 计算机理论知识
 
 + [目录](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rgziz584rvlgkfkn?singleDoc#%20《计算机网络》)
 + [概述](https://www.yuque.com/hanwenhao-bs03y/ygt7az/hngff4ecr4hg96gs?singleDoc#%20《01-概述》)
@@ -79,13 +108,13 @@
 + [面试常客](https://www.yuque.com/hanwenhao-bs03y/ygt7az/rpzy09hi8w6th5c9?singleDoc#%20《07-面试常客》)
 
 
-## 网络协议
+### 网络协议
 
 + [协议汇总](https://www.yuque.com/hanwenhao-bs03y/ygt7az/ppg9yiddr02875eo?singleDoc#%20《网络协议汇总》)
 + [HTTP协议](https://www.yuque.com/hanwenhao-bs03y/ygt7az/vyg2vx1dhrlggn8y?singleDoc#%20《HTTP%20协议》)
 
 
-## 异步IO模型
+### 异步IO模型
 
 #### Netty
 
@@ -107,39 +136,52 @@
 + [WebSocket](https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket)
 + [Swoole](https://wiki.swoole.com/#/)
 
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
--------------------
+<!-- 贡献 -->
 
+## 贡献
 
-## 版本控制
+贡献是使开源社区成为一个如此令人惊叹的地方，以学习、激励和创造。您所做的任何贡献都将非常感谢。
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+如果您对使这个项目变得更好有建议，请 fork 该仓库并创建 pull request。您也可以打开一个带有“enhancement”标签的问题。不要忘记给这个项目点个星！再次感谢！
 
-<!-- ## 作者 -->
-<!--  -->
-<!-- [小昊子](https://github.com/worst001) -->
-<!--  -->
-<!-- 制做不易，如果有帮到你就请作者喝杯咖啡吧! -->
-<!--  -->
-<!-- ![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg) -->
-<!--  -->
-<!-- 作者无聊时做的测试游戏，完全免费哦！ -->
-<!--  -->
-<!-- ![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg) -->
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
-## 参考资料
+<!-- 许可证 -->
+## 许可证
+
+根据 MIT 许可证进行分发。更多信息请参见 [LICENSE.txt](LICENSE)。
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+<!-- 联系方式 -->
+## 联系方式
+
+关注我: [小昊子](https://github.com/worst001)
+
+博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+
+项目链接: [https://github.com/worst001/mkdocs_network](https://github.com/worst001/mkdocs_network)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+## 鸣谢
+
+因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
+
+所有引用的原资料都确认是开源认证，若有侵权请告知。
+
+[尚硅谷系列教程资料](http://www.atguigu.com/opensource.shtml)
 
 [https://www.bilibili.com/video/BV19E411D78Q](https://www.bilibili.com/video/BV19E411D78Q)
 
 [https://github.com/dongzl/netty-handbook](https://github.com/dongzl/netty-handbook)
 
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
 
-### 写在最后的话
-
-因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
-
-所有引用的原资料都确认是开源认证，若有侵权请告知。
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
