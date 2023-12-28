@@ -172,13 +172,13 @@ NIO 的优势在于它能够提供更高的并发性和吞吐量，适用于处�
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_network.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_network/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_network.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_network/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_network.svg?style=social
-[stars-url]: https://github.com/worst001/mkdocs_network/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_network.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_network.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_network.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_network/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_network.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_network/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_network.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_network/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_network.svg?style=social
+[stars-url]: https://github.com/worst001/note_network/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_network.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_network.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_network.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_network/blob/main/LICENSE.txt
